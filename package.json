@@ -1,0 +1,31 @@
+{
+  "name": "wazza",
+  "version": "0.0.1",
+  "description": "Small Nodejs script telling you 'what's up' on your SVN repository. Basically what you'll get if you 'svn up'.",
+  "main": "wazza.js",
+  "dependencies": {
+    "configstore": "~0.1.1",
+    "moment": "~2.0.0",
+    "prompt": "~0.2.9",
+    "optimist": "~0.4.0",
+    "svnmonitor": "~0.2.2",
+    "underscore": "~1.4.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sebz/wazza"
+  },
+  "keywords": [
+    "svn",
+    "logs",
+    "update"
+  ],
+  "author": "Sebz",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "30c5b605e560f3373dcdec46fb3e8f063eb6d4e2"
+}
