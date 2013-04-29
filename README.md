@@ -1,9 +1,9 @@
 wazza
 =====
 
-Small Nodejs script telling you "what's up" in your SVN repository. Basically what you'll get if you "svn up".
+Small Nodejs script telling you *"what's up"* in your SVN repository. Basically what you'll get if you *svn up*.
 
-#### Instructions
+## Instructions
 Just clone this repo, get the necessary dependencies:  
 `npm install`
 
