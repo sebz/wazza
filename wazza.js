@@ -79,7 +79,7 @@ var displayUpdates = function(nbCommits) {
                     var header = moment(log.date, "YYYY-MM-DD HH:mm:ss Z").fromNow() + ', ' + 'revision ' + log.revision;
                     console.log('', header.grey.bold);
                     console.log(' \\o/'.bold, log.author.trim().green.bold.underline, log.message.split('\n').join(' '));
-                    console.log('\n');
+                    console.log('');
                     nbUpdates++;
                 }
             });
