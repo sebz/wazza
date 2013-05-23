@@ -15,6 +15,10 @@ Go to a folder under revision control and invoke it: `wazza`
 The first time you will be asked to provide your SVN credentials.  
 To change them afterwards just call `wazza setup`.
 
+## Preview
+
+![screenshot](https://raw.github.com/sebz/wazza/master/screenshot/wazza.png)
+
 
 
 
